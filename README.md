@@ -54,3 +54,5 @@ HostelWebApp/
 │ ├── ReportServlet.java
 │ └── ReportCriteriaServlet.java
 └── WEB-INF/web.xml
+
+Solution -> (https://github.com/Inchara-Angadi/Hostel-Management-System/tree/main/HostelManagementSystem_images)
